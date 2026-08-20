@@ -4,6 +4,7 @@
 
 ## 📊 Dashboard Preview
 
-![E-Commerce Sales Dashboard](E-Commerce Sales Performance Screenshot.png)
+![E-Commerce Sales Dashboard](dashboard.png)
+
 
 
